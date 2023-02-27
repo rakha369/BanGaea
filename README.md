@@ -81,4 +81,7 @@ for the prototype video click here : https://bit.ly/41rKIIn
 
 ![311736162_653613539466479_1875857235731300798_n](https://user-images.githubusercontent.com/77221179/221485315-730f52aa-ac0a-430f-ab54-c26bafa209d8.jpg)
 
+
+#### Finally, what I want to say about the internship is that it was a blessing from god to me as I made new connections from all over Egypt, and worked in a productive environment that if I tried my effort to make personal will never be like what god planned for me ; this is my first step in the data science field after working a lot in business management and entrepreneurship for almost two years in Engineering now is the time to merge my different skills in both Tech and Non-tech to start my own prayers so I ask god for his help to achieve my upcoming dreams  🙏
+
  
